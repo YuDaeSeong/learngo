@@ -6,6 +6,7 @@ import (
 	"github.com/learngo/banking"
 )
 
+// main - nomadcoders example
 func main() {
 	account := banking.NewAccount("nicol")
 

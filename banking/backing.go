@@ -2,7 +2,8 @@ package banking
 
 import "errors"
 
-//Account Struct
+// NomadCoders Exmaple
+// Account Struct
 type Account struct {
 	owner   string
 	balance int
